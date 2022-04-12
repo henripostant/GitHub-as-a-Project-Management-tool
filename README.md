@@ -37,4 +37,6 @@ More specifically I imagine that :
     -This includes knowing which container to use = when to draw the line between different projects
       -(I want to re-employ/re-use as many "components" as possible across projects.)
       
- 
+ ### Side note 
+ strong types could be of use to implemented GTD : 
+ For example a "project" could not also be "something-unclear yet". 
